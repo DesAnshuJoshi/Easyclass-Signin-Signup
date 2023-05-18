@@ -56,7 +56,7 @@ Easyclass-Signin-Signup
 Once on the project website, users can access the sign-up form to create a new account by providing the required information. Existing users can log in using their credentials through the sign-in form. The mobile-friendly design ensures a seamless and intuitive experience for users accessing the application or website on their mobile devices.
 ## Deployment
 
-This project is deployed to Netlify, experience now. [Click](https://simpolo-collection.netlify.app/)
+This project is deployed to Netlify, experience now. [Click](https://new-signup-login.netlify.app/)
 
 ## Customization
 
